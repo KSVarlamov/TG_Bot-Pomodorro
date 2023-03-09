@@ -12,7 +12,7 @@ import java.time.temporal.ChronoUnit;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class Main {
-    private static final String TOKEN = "5248589134:AAG7EeLuXhxA_oRU3uEP-3A3HZTwNI-aAU4";
+    private static final String TOKEN = "";
 
     private static final ConcurrentHashMap<PomodoroBot.Timer, Long> userTimers = new ConcurrentHashMap();
 
